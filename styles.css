@@ -1,0 +1,51 @@
+#canvas,#download,#social{
+  display: flex;
+  flex-direction: row;
+}
+ul>li{
+  display: inline-block;
+}
+nav>ul{
+  text-align:right;
+  padding-left: 760px;
+  position: fixed;
+  top:2px;
+  margin:40px;
+}
+ul>li>a{
+  text-decoration:none;
+  text-transform: uppercase;
+  padding: 6px;
+  color: aqua;
+}
+#logo{
+  position: fixed;
+  top:0.05px;
+  margin:50px;
+}
+.tropical{
+  text-decoration-color: #7dc410;
+  font-family: fantasy;
+}
+h1{
+position: absolute;
+padding-left: 400px;
+top:40%;
+font-family: 'Akronim', cursive;
+color: #f7325e ;
+font-size: 6em;
+}
+#history{
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+h2{
+  color:#f7325e ;
+  font-size: 50px;
+  font-family: 'Akronim', cursive;
+}
+
+h3{
+  color:white;
+}
